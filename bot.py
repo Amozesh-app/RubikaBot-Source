@@ -5,8 +5,8 @@ import requests
 import time
 
 
-bot = Bot("auth")
-target = "g0BVzsB01fd8383fc2e2aff3e3353d6d"
+bot = Bot("wxhowsospgttjkzekifbuuodgylafvrj")
+target = "g0BWxYY05027644a4f6b7b371cd5f243"
 
 def hasInsult(msg):
 	swData = [False,None]
